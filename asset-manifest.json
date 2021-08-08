@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/beautynails/static/css/main.25f04ed7.chunk.css",
-    "main.js": "/beautynails/static/js/main.503b37b6.chunk.js",
-    "main.js.map": "/beautynails/static/js/main.503b37b6.chunk.js.map",
+    "main.css": "/beautynails/static/css/main.4cdb04ad.chunk.css",
+    "main.js": "/beautynails/static/js/main.951f9c1a.chunk.js",
+    "main.js.map": "/beautynails/static/js/main.951f9c1a.chunk.js.map",
     "runtime-main.js": "/beautynails/static/js/runtime-main.a1b21c7b.js",
     "runtime-main.js.map": "/beautynails/static/js/runtime-main.a1b21c7b.js.map",
-    "static/js/2.191b844a.chunk.js": "/beautynails/static/js/2.191b844a.chunk.js",
-    "static/js/2.191b844a.chunk.js.map": "/beautynails/static/js/2.191b844a.chunk.js.map",
+    "static/js/2.f0d2e8cb.chunk.js": "/beautynails/static/js/2.f0d2e8cb.chunk.js",
+    "static/js/2.f0d2e8cb.chunk.js.map": "/beautynails/static/js/2.f0d2e8cb.chunk.js.map",
     "index.html": "/beautynails/index.html",
-    "static/css/main.25f04ed7.chunk.css.map": "/beautynails/static/css/main.25f04ed7.chunk.css.map",
-    "static/js/2.191b844a.chunk.js.LICENSE.txt": "/beautynails/static/js/2.191b844a.chunk.js.LICENSE.txt",
+    "static/css/main.4cdb04ad.chunk.css.map": "/beautynails/static/css/main.4cdb04ad.chunk.css.map",
+    "static/js/2.f0d2e8cb.chunk.js.LICENSE.txt": "/beautynails/static/js/2.f0d2e8cb.chunk.js.LICENSE.txt",
     "static/media/App.css": "/beautynails/static/media/french.1941b1c7.jpg",
+    "static/media/facebook.5b4225fa.png": "/beautynails/static/media/facebook.5b4225fa.png",
     "static/media/ham_icon.b641b2ee.jpg": "/beautynails/static/media/ham_icon.b641b2ee.jpg",
     "static/media/hauptlogo.46140af8.jpg": "/beautynails/static/media/hauptlogo.46140af8.jpg",
     "static/media/homepic.d52ddba0.jpg": "/beautynails/static/media/homepic.d52ddba0.jpg",
@@ -18,12 +19,13 @@
     "static/media/manikure.f1c8b911.jpg": "/beautynails/static/media/manikure.f1c8b911.jpg",
     "static/media/nailart.ae64724a.jpg": "/beautynails/static/media/nailart.ae64724a.jpg",
     "static/media/neumodel.4d5fd1df.jpg": "/beautynails/static/media/neumodel.4d5fd1df.jpg",
-    "static/media/pedikure.6e43c333.jpg": "/beautynails/static/media/pedikure.6e43c333.jpg"
+    "static/media/pedikure.6e43c333.jpg": "/beautynails/static/media/pedikure.6e43c333.jpg",
+    "static/media/whatsapp.5d02ad0f.png": "/beautynails/static/media/whatsapp.5d02ad0f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a1b21c7b.js",
-    "static/js/2.191b844a.chunk.js",
-    "static/css/main.25f04ed7.chunk.css",
-    "static/js/main.503b37b6.chunk.js"
+    "static/js/2.f0d2e8cb.chunk.js",
+    "static/css/main.4cdb04ad.chunk.css",
+    "static/js/main.951f9c1a.chunk.js"
   ]
 }
