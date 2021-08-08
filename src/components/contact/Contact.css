@@ -123,5 +123,11 @@
       background-color: #DDD;
       border: 5px solid #cfd8dc;
     }
+    ul.leaders-contact {
+      font-size: x-large;
+      margin-right: 20%;
+      margin-left: 20%;
+      overflow:       hidden;  
+    }
 
 }
