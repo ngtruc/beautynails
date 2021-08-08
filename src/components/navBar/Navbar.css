@@ -91,14 +91,14 @@
       width: 100%;
       height: 90vh;
       position: absolute;
-      top: 80px;
+      top: 160px;
       left: -100%;
       opacity: 1;
       transition: all 0.5s ease;
     }
   
     .nav-menu.active {
-      background: #bd3890;
+      background: #f1d3e7;
       left: 0;
       opacity: 1;
       transition: all 0.5s ease;
