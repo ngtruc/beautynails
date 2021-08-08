@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 import {Link} from 'react-router-dom'
 //import  Button  from './Button.js'
-import haupticon from './studiovinari-brands.svg'
+import haupticon from './hauptlogo.jpg'
 import hamburger_icon from './ham_icon.jpg'
 import cancel_icon from './cancel.png'
 import './Navbar.css'
@@ -28,8 +28,8 @@ function Navbar() {
             <nav className="navbar">
                 <div className="navbar-container">
                     <Link to="/" className="navbar-logo">
-                        Beauty Nails 
-                        <img src={haupticon} width="20" height="20" className="hauptIcon-logo" />
+                            Beauty Nails
+                        <img src={haupticon} width="60" height="60" className="hauptIcon-logo" />
                     </Link> 
                     <div className="menu-icon" onClick={handleClick}>
                          
