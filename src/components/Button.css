@@ -1,0 +1,57 @@
+:root {
+    --primary : #fff;
+}
+
+.btn-signup {
+    background-color: #e5e8f0;
+    color: rgb(112, 104, 196);
+  }
+
+  .btn-sm{
+    padding: 12px 26px;
+    font-size: 20px;
+}
+
+.btn {
+    padding: 8px 20px;
+    border-radius:  2px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+.btn--primary {
+    background-color:  var(--primary);
+    color: #242424;
+    border: lpx solid var(--primary); 
+}
+
+.btn--outline {
+    background-color: transparent;
+    color: #fff;
+    padding: 8px 20px;
+    border: lpx solid var(--primary); 
+    transition:  all 0.3s case-out;
+}
+
+.btn--medium {
+    padding: 8px 20px;
+    font-size: 20px;
+}
+
+.btn--large {
+    padding: 12px 26px;
+    font-size: 20px;
+}
+
+.btn--medium:hover, .btn--large:hover {
+    background: #fff;
+    color: #242424;
+    transition: all 0.3s case-out;
+}
+
+.btn-signup:hover {
+    background: rgb(75, 34, 171);
+    color: #24a7a7;
+    transition: all 0.3s case-out;
+}
