@@ -56,11 +56,6 @@ function Navbar() {
                                 Kontaktieren
                             </Link>
                         </li>
-                        <li className='nav-item'>
-                            <Link to='/termin' className='nav-links' onClick={closeMobileMenu}>
-                                Terminvereinbarung
-                            </Link>
-                        </li>
                     </ul>
                 </div>
                
