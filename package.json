@@ -2,7 +2,7 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ngtruc.github.io/beautynails",
+
   "dependencies": {
     "@syncfusion/ej2-react-navigations": "^19.2.51",
     "@testing-library/jest-dom": "^5.11.4",
