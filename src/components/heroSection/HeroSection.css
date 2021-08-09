@@ -1,7 +1,10 @@
+
+
 .photo { 
-  width: 100%;
+  max-width: 100%;
+  height: auto;
   flex: 1;
-  filter: brightness(70%);
+  filter: brightness(100%);
   transition: 1s;
 }
 

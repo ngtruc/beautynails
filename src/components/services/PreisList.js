@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './PreisList.css'
-import neumodel from './neumodel.jpg'
+import neumodel from './neumodel.jpeg'
 import manikure from './manikure.jpg'
 import pedikure from './pedikure.jpg'
 import nailart from './nailart.jpg'
@@ -13,9 +13,7 @@ function PreisList(props) {
                 <p className="header1">Unsere Services</p>
                 <p className="header2">Beauty Nails - Ihr Nagelstudio in Hünfeld</p>
                 <p className="header3">Nails Service</p>
-                <p className="text1">With the full of beauty care services and new colors for you to choose, you are ensured to enjoy the best services in our effort of doing a great job.
-Let’s take a look at our price list below!! Our nail salon is always committed to bringing you the reasonable price!</p>
-
+             
                 <div className="table-container">
                 <img src={neumodel} className="left-pic" alt="neu model"/>
                   <ul className="leaders">
@@ -45,7 +43,7 @@ Let’s take a look at our price list below!! Our nail salon is always committed
                   </ul>
                 </div>
                 <div className="table-container">
-                  <img src={neumodel} className="right-pic" alt="neu model"/>
+                  <img src={manikure} className="right-pic" alt="neu model"/>
                   <ul className="leaders">
                   <li className="header-preis">
                   Maniküre
@@ -121,6 +119,9 @@ Let’s take a look at our price list below!! Our nail salon is always committed
                     </li>
                   </ul>
                 </div>
+                <p className="text1">5€ Nachlass auf Neumodellage oder Auffüllen für Schüller, Student und Azubis.</p>
+                <p className="text1">5€ Rabatt bei jedem 5.Besuch unter Vorlage der Kundenkarte.</p>
+
         </div>
   );
 }

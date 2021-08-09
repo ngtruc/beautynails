@@ -1,7 +1,9 @@
 import React from 'react';
 import './Cards.css';
 import CardItem from './CardItem';
-import CardImage from './homepic.jpg'
+import manikure from './manikure.jpg'
+import nailart from './nailart.jpg'
+import pedikure from './pedikure.jpg'
 
 function Cards() {
   return (
@@ -10,23 +12,23 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src={CardImage}
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
-              label='Adventure'
+              src={manikure}
+              text='Maniküre Service entfernt Ihre Nagelhaut ordentlich und Ihre Hande sieht sehr ordentlich aus'
+              label='Maniküere'
               path='/services'
             />
             <CardItem
-              src={CardImage}
-              text='Travel through the Islands of Bali in a Private Cruise'
-              label='Luxury'
+              src={pedikure}
+              text='Mit Pediküre werden Ihre Füße gut gepflegt, die Nagelhaut und die Hornhaut werden sorfältig entfernt '
+              label='Pedikuere'
               path='/services'
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src={CardImage}
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
-              label='Mystery'
+              src={nailart}
+              text='Mit unseren professionelle UV Gel Design werden Ihre Nagel mit gewünschen Design gemacht.'
+              label='Nail Art'
               path='/services'
             />
           </ul>

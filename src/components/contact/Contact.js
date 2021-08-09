@@ -1,6 +1,6 @@
 import React from 'react'
 import './Contact.css'
-import neumodel from './neumodel.jpg'
+import neumodel from './manikure.jpg'
 import whatsapp from './whatsapp.png'
 import call from './call.png'
 import facebook from './facebook.png'
