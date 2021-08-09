@@ -168,3 +168,37 @@
    from {opacity: .4}
    to {opacity: 1}
  }
+
+ @media screen and (max-width: 960px) {
+  .left-arrow {
+    position: relative; 
+    width: 3%; /* for IE 6 */
+    top: -250px; 
+    text-align: left;
+ }
+
+ .right-arrow {
+    position: relative; 
+    width: 3%; /* for IE 6 */
+    top: -250px; 
+    align-items: flex-end;
+ }
+
+
+ .header-home{
+   font-size: x-large; 
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255); 
+    vertical-align: middle;
+ }
+  .text-home{ 
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: rgb(255, 255, 255); 
+}
+}
