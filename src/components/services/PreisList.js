@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './PreisList.css'
-import neumodel from './neumodel.jpeg'
+import neumodel from './neumodel.jpg'
 import manikure from './manikure.jpg'
 import pedikure from './pedikure.jpg'
 import nailart from './nailart.jpg'
