@@ -4,7 +4,7 @@
   max-width: 100%;
   height: auto;
   flex: 1;
-  filter: brightness(100%);
+  filter: brightness(90%);
   transition: 1s;
 }
 
@@ -17,33 +17,35 @@
  .left-arrow {
     position: relative; 
     width: 3%; /* for IE 6 */
-    top: -450px; 
+    top: 50%; 
     text-align: left;
  }
 
  .right-arrow {
     position: relative; 
     width: 3%; /* for IE 6 */
-    top: -450px; 
+    top: 50%; 
     align-items: flex-end;
  }
 
 
- h1{ 
-    position: absolute; 
-    top: 50%; 
-    text-align: center;
-    width: 100%;
+ .header-home{
+   font-size: x-large; 
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     color: rgb(255, 255, 255); 
+    vertical-align: middle;
  }
+  .text-home{ 
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: rgb(255, 255, 255); 
+}
 
- h3 { 
-    position: absolute; 
-    top: 60%; 
-    text-align: center;
-    width: 100%;
-    color: rgb(255, 255, 255);  
- }
  
  h1 span { 
     color: white; 

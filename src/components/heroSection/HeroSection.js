@@ -74,9 +74,11 @@ function HeroSection(props) {
          
          <Link to={state.linkList[state.index]} >
           <img src={state.imgList[state.index]} class="photo" alt="homepic"/>
-            <h1>{state.textList[state.index]}</h1>
+
+              <div className="header-home">{state.textList[state.index]}<br/></div>
+              <div className="text-home">{state.commmentList[state.index]}</div>
           </Link>
-          <h3>{state.commmentList[state.index]}</h3>
+          
       </div>
     
     
