@@ -14,13 +14,13 @@ function Cards() {
             <CardItem
               src={manikure}
               text='Maniküre Service entfernt Ihre Nagelhaut ordentlich und Ihre Hande sieht sehr ordentlich aus'
-              label='Maniküere'
+              label='Maniküre'
               path='/services'
             />
             <CardItem
               src={pedikure}
               text='Mit Pediküre werden Ihre Füße gut gepflegt, die Nagelhaut und die Hornhaut werden sorfältig entfernt '
-              label='Pedikuere'
+              label='Pediküre'
               path='/services'
             />
           </ul>

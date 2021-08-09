@@ -173,14 +173,14 @@
   .left-arrow {
     position: relative; 
     width: 3%; /* for IE 6 */
-    top: -250px; 
+    top: -150px; 
     text-align: left;
  }
 
  .right-arrow {
     position: relative; 
     width: 3%; /* for IE 6 */
-    top: -250px; 
+    top: -150px; 
     align-items: flex-end;
  }
 
@@ -197,8 +197,8 @@
   .text-home{ 
   position: absolute;
   top: 30%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  left: 10%;
+  transform: translate(-10%, -10%);
   color: rgb(255, 255, 255); 
 }
 }
