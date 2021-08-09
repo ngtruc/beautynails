@@ -69,24 +69,20 @@ function PreisList(props) {
                   Pediküre
                     </li>
                     <li>
-                      <span>Neumodellage oder Auffüllen</span>
+                      <span>Feilen, Nagelhaut entfernen und Massage</span>
                       <span>25 €</span>
                     </li>
                     <li>
-                      <span>- mit French</span>
-                      <span>30 €</span>
+                      <span>- mit Nagellack</span>
+                      <span>+ 5 €</span>
                     </li>
                     <li>
-                      <span>- mit einer Farbe</span>
-                      <span>31 €</span>
+                      <span>- mit Shellac</span>
+                      <span>+ 10 €</span>
                     </li>
                     <li>
-                      <span>- je weitere Farbe</span>
-                      <span>2 €</span>
-                    </li>
-                    <li>
-                      <span>- extra lang</span>
-                      <span>5 €</span>
+                      <span>- mit Zehenmodellage und UV Farbgel</span>
+                      <span>+ 15 €</span>
                     </li>
                   </ul>
                 </div>
@@ -98,24 +94,28 @@ function PreisList(props) {
                   Nail Art Design
                     </li>
                     <li>
-                      <span>Neumodellage oder Auffüllen</span>
-                      <span>25 €</span>
+                      <span>Hand- und Airbrushdesign</span>
+                      <span>je 1,5 €</span>
                     </li>
                     <li>
-                      <span>- mit French</span>
-                      <span>30 €</span>
+                      <span>Strassstein</span>
+                      <span>je 0,5 €</span>
                     </li>
                     <li>
-                      <span>- mit einer Farbe</span>
-                      <span>31 €</span>
-                    </li>
-                    <li>
-                      <span>- je weitere Farbe</span>
-                      <span>2 €</span>
-                    </li>
-                    <li>
-                      <span>- extra lang</span>
+                      <span>Lackieren</span>
                       <span>5 €</span>
+                    </li>
+                    <li>
+                      <span>Reparatur</span>
+                      <span>10 €</span>
+                    </li>
+                    <li>
+                      <span>Ablösen</span>
+                      <span>10 €</span>
+                    </li>
+                    <li>
+                      <span>Verlängerung mit Tips</span>
+                      <span>2 €</span>
                     </li>
                   </ul>
                 </div>
