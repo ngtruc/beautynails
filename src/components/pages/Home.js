@@ -3,6 +3,7 @@ import '../../App.css';
 //import './HeroSection.css';
 import HeroSection from '../heroSection/HeroSection'
 import Cards from '../cards/Cards'
+import Footer from '../foots/Footer'
 
 function Home() {
 
@@ -12,6 +13,7 @@ function Home() {
     <HeroSection 
     />
     <Cards />
+    <Footer />
     </>
   );
 }
