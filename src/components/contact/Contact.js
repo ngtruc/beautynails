@@ -12,7 +12,7 @@ function Contact() {
             <p className="header2">Beauty Nails - Ihr Nagelstudio in Hünfeld</p>
             <p className="header-address">Die Adresse: </p>
          
-                <p className="address-text">Unseres Laden befindet siche direkt in der Innerstadt Hünfeld</p>
+                <p className="address-text">Unseres Laden befindet sich direkt in der Innerstadt Hünfeld</p>
                 <p className="address-text">Mittelstraße 2</p>
                 <p className="address-text">36088 Hünfeld</p>
                

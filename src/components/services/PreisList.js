@@ -22,15 +22,15 @@ function PreisList(props) {
                     </li>
                     <li>
                       <span>Neumodellage oder Auffüllen</span>
-                      <span>25 €</span>
+                      <span>27 €</span>
                     </li>
                     <li>
                       <span>- mit French</span>
-                      <span>30 €</span>
+                      <span>32 €</span>
                     </li>
                     <li>
                       <span>- mit einer Farbe</span>
-                      <span>31 €</span>
+                      <span>32 €</span>
                     </li>
                     <li>
                       <span>- je weitere Farbe</span>
@@ -78,7 +78,7 @@ function PreisList(props) {
                     </li>
                     <li>
                       <span>- mit Shellac</span>
-                      <span>+ 10 €</span>
+                      <span>+ 15 €</span>
                     </li>
                     <li>
                       <span>- mit Zehenmodellage und UV Farbgel</span>
@@ -103,7 +103,7 @@ function PreisList(props) {
                     </li>
                     <li>
                       <span>Lackieren</span>
-                      <span>5 €</span>
+                      <span>10 €</span>
                     </li>
                     <li>
                       <span>Reparatur</span>
