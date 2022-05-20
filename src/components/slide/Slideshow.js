@@ -11,7 +11,8 @@ import s8 from './images/slide_8.jpeg'
 import s9 from './images/slide_9.jpeg'
 import s10 from './images/slide_10.jpeg'
 import s11 from './images/slide_11.jpeg'
-
+import s12 from './images/slide_12.jpeg'
+import s13 from './images/slide_13.jpeg'
 
 const IMAGES =
 [{
@@ -88,6 +89,20 @@ const IMAGES =
 {
         src: s11,
         thumbnail: s11,
+        thumbnailWidth: 150,
+        thumbnailHeight: 212,
+        caption: "Blau French mit Design"
+},
+{
+        src: s12,
+        thumbnail: s12,
+        thumbnailWidth: 150,
+        thumbnailHeight: 212,
+        caption: "Blau French mit Design"
+}, 
+{
+        src: s12,
+        thumbnail: s12,
         thumbnailWidth: 150,
         thumbnailHeight: 212,
         caption: "Blau French mit Design"
