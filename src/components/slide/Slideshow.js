@@ -91,14 +91,14 @@ const IMAGES =
         thumbnail: s11,
         thumbnailWidth: 150,
         thumbnailHeight: 212,
-        caption: "Blau French mit Design"
+        caption: "Nail Art"
 },
 {
         src: s12,
         thumbnail: s12,
         thumbnailWidth: 150,
         thumbnailHeight: 212,
-        caption: "Blau French mit Design"
+        caption: "French Nail Art"
 }, 
 {
         src: s13,
