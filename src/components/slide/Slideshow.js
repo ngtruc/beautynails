@@ -101,8 +101,8 @@ const IMAGES =
         caption: "Blau French mit Design"
 }, 
 {
-        src: s12,
-        thumbnail: s12,
+        src: s13,
+        thumbnail: s13,
         thumbnailWidth: 150,
         thumbnailHeight: 212,
         caption: "Blau French mit Design"
