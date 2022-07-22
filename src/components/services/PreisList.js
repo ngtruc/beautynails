@@ -53,12 +53,8 @@ function PreisList(props) {
                       <span>12 €</span>
                     </li>
                     <li>
-                      <span>- mit Nagellack</span>
+                      <span>- mit Nagellack (für Kinder unter 15J)</span>
                       <span>+7 €</span>
-                    </li>
-                    <li>
-                      <span>- mit Shellac</span>
-                      <span>+12 €</span>
                     </li>
                   </ul>
                 </div>
@@ -73,15 +69,7 @@ function PreisList(props) {
                       <span>28 €</span>
                     </li>
                     <li>
-                      <span>- mit Nagellack</span>
-                      <span>+ 8 €</span>
-                    </li>
-                    <li>
-                      <span>- mit Shellac</span>
-                      <span>+ 12 €</span>
-                    </li>
-                    <li>
-                      <span>- mit Zehenmodellage und UV Farbgel</span>
+                      <span>- mit Zehenmodellage und UV Gelfarbe/Schellac</span>
                       <span>+ 15 €</span>
                     </li>
                   </ul>
