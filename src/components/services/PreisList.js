@@ -22,7 +22,7 @@ function PreisList(props) {
                     </li>
                     <li>
                       <span>Neumodellage oder Auffüllen</span>
-                      <span>28 €</span>
+                      <span>30 €</span>
                     </li>
                     <li>
                       <span>- mit French</span>
@@ -66,7 +66,7 @@ function PreisList(props) {
                     </li>
                     <li>
                       <span>Feilen, Nagelhaut entfernen und Massage</span>
-                      <span>28 €</span>
+                      <span>30 €</span>
                     </li>
                     <li>
                       <span>- mit Zehenmodellage und UV Gelfarbe/Schellac</span>
