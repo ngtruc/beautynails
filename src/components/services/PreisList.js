@@ -26,11 +26,11 @@ function PreisList(props) {
                     </li>
                     <li>
                       <span>- mit French</span>
-                      <span>33 €</span>
+                      <span>34 €</span>
                     </li>
                     <li>
                       <span>- mit einer Farbe</span>
-                      <span>33 €</span>
+                      <span>34 €</span>
                     </li>
                     <li>
                       <span>- je weitere Farbe</span>
