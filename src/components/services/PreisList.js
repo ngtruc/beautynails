@@ -25,8 +25,12 @@ function PreisList(props) {
                       <span>30 €</span>
                     </li>
                     <li>
-                      <span>- mit French</span>
+                      <span>- mit French/ Babybommer</span>
                       <span>34 €</span>
+                    </li>
+                    <li>
+                      <span>- mit Frenchfarbe</span>
+                      <span>36 €</span>
                     </li>
                     <li>
                       <span>- mit einer Farbe</span>
@@ -34,11 +38,15 @@ function PreisList(props) {
                     </li>
                     <li>
                       <span>- je weitere Farbe</span>
-                      <span>2 €</span>
+                      <span>+ 2 €</span>
                     </li>
                     <li>
-                      <span>- extra lang</span>
-                      <span>5 €</span>
+                      <span>- lange Nageln</span>
+                      <span>+ 1 bis 5 €</span>
+                    </li>
+                    <li>
+                      <span>- Shellac</span>
+                      <span> 25 €</span>
                     </li>
                   </ul>
                 </div>
@@ -51,10 +59,6 @@ function PreisList(props) {
                     <li>
                       <span>Feilen, Nagelhaut entfernen und Massage</span>
                       <span>12 €</span>
-                    </li>
-                    <li>
-                      <span>- mit Nagellack (für Kinder unter 15J)</span>
-                      <span>+7 €</span>
                     </li>
                   </ul>
                 </div>
@@ -70,7 +74,11 @@ function PreisList(props) {
                     </li>
                     <li>
                       <span>- mit Zehenmodellage und UV Gelfarbe/Schellac</span>
-                      <span>+ 15 €</span>
+                      <span>+ 13 €</span>
+                    </li>
+                   <li>
+                      <span>- mit Zehenmodellage und UV Gelfarbe/Schellac ohne Pediküre</span>
+                      <span> 30 €</span>
                     </li>
                   </ul>
                 </div>
@@ -90,14 +98,6 @@ function PreisList(props) {
                       <span>je 0,5 €</span>
                     </li>
                     <li>
-                      <span>Lackieren</span>
-                      <span>8 €</span>
-                    </li>
-                    <li>
-                      <span>Reparatur</span>
-                      <span>10 €</span>
-                    </li>
-                    <li>
                       <span>Ablösen</span>
                       <span>12 €</span>
                     </li>
@@ -107,8 +107,6 @@ function PreisList(props) {
                     </li>
                   </ul>
                 </div>
-                <p className="text1">5€ Nachlass auf Neumodellage oder Auffüllen für Schüller, Student und Azubis.</p>
-                <p className="text1">5€ Rabatt bei jedem 5.Besuch unter Vorlage der Kundenkarte.</p>
 
         </div>
   );
