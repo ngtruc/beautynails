@@ -13,12 +13,13 @@ function Contact() {
             <p className="header-address">Die Adresse: </p>
          
                 <p className="address-text">Unseres Laden befindet sich direkt in der Innerstadt Hünfeld</p>
+                <p className="address-text">Inhaber: Hoai Nam Trinh</p>
                 <p className="address-text">Mittelstraße 2</p>
                 <p className="address-text">36088 Hünfeld</p>
                
                 <p className="address-text">Telefon: 06652 9089991</p>
                 <p className="address-text">Mobil: 0174 6357272</p>
-                
+                <p className="address-text">Email: namtrinh.beautynails@gmail.com</p>
                 <a href="tel:+4966529089991" >
                   <img src={call} className="contact-icon" alt="call "/>
                 </a>
