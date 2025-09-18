@@ -26,15 +26,15 @@ function PreisList(props) {
                     </li>
                     <li>
                       <span>- mit French/ Babybommer</span>
-                      <span>34 €</span>
+                      <span>35 €</span>
                     </li>
                     <li>
                       <span>- mit Frenchfarbe</span>
-                      <span>36 €</span>
+                      <span>37 €</span>
                     </li>
                     <li>
                       <span>- mit einer Farbe</span>
-                      <span>34 €</span>
+                      <span>35 €</span>
                     </li>
                     <li>
                       <span>- je weitere Farbe</span>
